@@ -32,7 +32,7 @@ global.APIKeys = { // APIKey Here
   'https://violetics.pw': 'beta',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://melcanz.com': 'elaina',
-  'https://api.xteam.xyz': 'YourApikey',https://api.xteam.xyz': 'YourApikey',
+  'https://api.xteam.xyz': 'YourApikey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
