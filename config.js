@@ -4,7 +4,7 @@ global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
  violetics: 'https://violetics.pw',
-  hadi: http://hadi-api.herokuapp.com',
+   hadi: 'http://hadi-api.herokuapp.com',
   amel: 'https://melcanz.com',
     bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
