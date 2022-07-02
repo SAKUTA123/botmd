@@ -3,6 +3,8 @@ global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
+ violetics: 'https://violetics.pw',
+  hadi: http://hadi-api.herokuapp.com',
   amel: 'https://melcanz.com',
     bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
@@ -27,7 +29,10 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
+  'https://violetics.pw': 'beta',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://melcanz.com': 'elaina',
+  'https://api.xteam.xyz': 'YourApikey',https://api.xteam.xyz': 'YourApikey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
